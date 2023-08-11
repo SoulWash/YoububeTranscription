@@ -3,8 +3,11 @@
 <p>Transcreve videos do youtube em texto, usado o servidor do transfomes para rodar.</p>
 <p>Projeto feito com o Mayk Brito da @RocketSeat</p>
 
+<p>Vai instalar o Vite no projeto <mark>npm create vite@latest .</mark> será Vanilla e como Javascript. Deposi <mark>npm install</mark>, mas irá precisar o Node.js instalado em sua máquina.</p>
+
 <h4>🏃‍♂️ Run:</h4>
 <ul>
+<li>Instalar Npm: npm install</li>
 <li>Rodar o front: npm run dev</li>
 <li>Rodar o back: npm run server</li>
 </ul>
